@@ -2,7 +2,7 @@
 
 Projet pour la semaine de préparation de The Hacking Project.
 Création du Better Mother Fucking Site.
-Exercice permettant d'utiliser Git et GitHub, et les trois langages HTML, CSS et JavaScript.
+Utilisation de Git et GitHub, et les trois langages HTML, CSS et JavaScript.
 
 # Lien version en production
 Lien de BetterMotherFuckingWebsite : https://manonfenery.github.io/bettermotherfuckingwebsite/
